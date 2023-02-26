@@ -1,0 +1,21 @@
+current directory: /home/chacha/Development/code/phase3/assignments/phase-3-sinatra-with-active-record-get/vendor/bundle/ruby/3.1.0/gems/psych-3.3.4/ext/psych
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for yaml.h... yes
+checking for yaml_get_version() in -lyaml... yes
+creating Makefile
+
+current directory: /home/chacha/Development/code/phase3/assignments/phase-3-sinatra-with-active-record-get/vendor/bundle/ruby/3.1.0/gems/psych-3.3.4/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20230226-9490-5yvzny sitelibdir\=./.gem.20230226-9490-5yvzny clean
+
+current directory: /home/chacha/Development/code/phase3/assignments/phase-3-sinatra-with-active-record-get/vendor/bundle/ruby/3.1.0/gems/psych-3.3.4/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20230226-9490-5yvzny sitelibdir\=./.gem.20230226-9490-5yvzny
+compiling psych.c
+compiling psych_emitter.c
+compiling psych_parser.c
+compiling psych_to_ruby.c
+compiling psych_yaml_tree.c
+linking shared-object psych.so
+
+current directory: /home/chacha/Development/code/phase3/assignments/phase-3-sinatra-with-active-record-get/vendor/bundle/ruby/3.1.0/gems/psych-3.3.4/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20230226-9490-5yvzny sitelibdir\=./.gem.20230226-9490-5yvzny install
+/bin/install -m 0755 psych.so ./.gem.20230226-9490-5yvzny
